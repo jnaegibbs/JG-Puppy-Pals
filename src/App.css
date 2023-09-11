@@ -1,9 +1,32 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: lavenderblush;
+  color: black;
+  border-radius: 50px;
 }
+
+body { 
+  background-color: azure;
+  background: url(https://c8.alamy.com/comp/2DH9C48/seamless-pattern-of-cute-dog-puppy-symbol-toy-paw-footstep-cartoon-funny-and-happy-dog-concept-with-simple-shape-style-illustration-for-background-wallpaper-textile-fabric-2DH9C48.jpg);
+}
+
+.App {
+font-size: 25px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+h3 {
+  color: orange;
+}
+
+p:hover {
+  color: orange;
+}
+
 
 .logo {
   height: 6em;
